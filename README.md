@@ -1,2 +1,2 @@
 # projetoproz
-Projeto Site Atividade Proz Educação
+Projeto Integrado - Site Atividade Proz Educação
